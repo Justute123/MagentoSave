@@ -1,0 +1,12 @@
+{
+    "config": {
+        "allow-plugins": {
+            "magento/magento-composer-installer": true
+        }
+    },
+    "require": {
+        "msp/devtools": "^1.2",
+        "imaginaerum/magento2-language-fr-fr": "^100.6",
+        "mageplaza/magento-2-french-language-pack": "^1.0"
+    }
+}
